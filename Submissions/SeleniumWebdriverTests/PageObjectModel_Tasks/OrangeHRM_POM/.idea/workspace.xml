@@ -5,36 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cf255d8-4c42-4263-bdb5-baec79a6624a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrangeHRM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/DashboardPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Login/LoginTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Setup/SetupTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pageObject/DashboardPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pageObject/LoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Login/LoginTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Setup/SetupTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SinglePage_Task/Deydam/allure-results/2a047c33-d7b4-4871-9e96-69431b6367bd-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SinglePage_Task/Deydam/allure-results/9a88c7a2-9f7a-451b-934e-1b0779402c26-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SinglePage_Task/Deydam/allure-results/9e4e0d0f-9bdb-45ec-ab8a-32ae72378abe-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SinglePage_Task/Deydam/allure-results/9fb5294d-83cd-4617-bf1b-5badaefc332b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SinglePage_Task/Deydam/allure-results/edb8ad72-8f5f-47a8-9f0b-158032e188f5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SinglePage_Task/Facebook/allure-results/00f37576-e937-4417-b07a-7921d749f96e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SinglePage_Task/Facebook/allure-results/6c77c01a-ff40-4c27-a584-8de9bc244a67-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SinglePage_Task/Facebook/allure-results/71cb16d4-7ec9-430d-9ca9-0f3d8684ac9f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SinglePage_Task/Facebook/allure-results/920fd0b3-de74-4ada-9b38-b4fd1e7c6ac4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../SinglePage_Task/Facebook/allure-results/be7ca69d-0383-469d-ae1c-c87287bdd7b8-container.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SinglePage_Task/Facebook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SinglePage_Task/Facebook/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0319cc16-1912-4774-a479-869274be2738-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/47c2ae22-414b-45f9-b285-6431a2ab8899-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/58d438b0-2a2c-4424-83f4-8a614e8f9635-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a80e404c-d1f5-499c-8f98-d0c3f9e8e518-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/be9dbf6c-a90c-4cf7-9f52-18cb82bc2afa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c35d7f60-8db4-4751-808d-c4a028412637-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c72ee2ea-753b-4c36-94ef-be9005f8e7ca-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/caa8b9aa-c915-4b27-8d4e-6225dedb7b66-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d4caeaf5-6802-4025-b5a7-19e21157fe58-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ffb90f73-17a3-4d67-9263-6ed0e8fc3667-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/resources/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Setup/SetupTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Setup/SetupTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Setup/SetupTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Setup/SetupTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +64,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HP\TestCodeCamp_Programme\Submissions\SeleniumWebdriverTests\PageObjectModel_Tasks\OrangeHRM_POM\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\TestCodeCamp_Programme\Submissions\SeleniumWebdriverTests\PageObjectModel_Tasks\OrangeHRM_POM\resources" />
     </key>
   </component>
   <component name="RunManager">
@@ -150,7 +138,7 @@
       <workItem from="1615816595413" duration="15453000" />
       <workItem from="1615922310551" duration="1765000" />
       <workItem from="1615962989935" duration="2681000" />
-      <workItem from="1615972977789" duration="249000" />
+      <workItem from="1615972977789" duration="2333000" />
     </task>
     <servers />
   </component>
