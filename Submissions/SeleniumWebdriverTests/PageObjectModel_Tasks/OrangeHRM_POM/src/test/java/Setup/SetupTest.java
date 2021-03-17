@@ -23,7 +23,7 @@ public class SetupTest {
     {
         //Selenium WebDriver needs this executable in order to know which browser to run your test
         //Browser setup for Chrome
-        System.setProperty("webdriver.chrome.driver","C:\\Users\\HP\\TestCodeCamp_Programme\\Submissions\\SeleniumWebdriverTests\\PageObjectModel_Tasks\\OrangeHRM_POM\\src\\main\\resources\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","resources/chromedriver.exe");
         //Instantiate WebDriver object
         driver = new ChromeDriver();
 
