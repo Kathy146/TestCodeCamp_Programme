@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05518f9d-cbfb-4f27-8a20-542ecf93c53f" name="Default Changelist" comment="" />
+    <list default="true" id="3c1dc73a-72b9-4b40-9660-f3c5241d44bc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
-  <component name="ProjectId" id="1qFF0DUuupX6RCttp1KdmIgvKZr" />
+  <component name="ProjectId" id="1qDdzN6mdHSFn395fw8i4gBL2Bq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -33,7 +33,6 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
@@ -46,13 +45,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\HP\TestCodeCamp_Programme\Submissions\SeleniumWebdriverTests\PageObjectModel_Tasks\Konga 4\resources" />
+      <recent name="C:\Users\HP\TestCodeCamp_Programme\Submissions\SeleniumWebdriverTests\PageObjectModel_Tasks\Konga3\resources" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="LoginTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Login.LoginTests" />
-      <module name="Konga 4" />
+    <configuration name="Logintest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Login.Logintest" />
+      <module name="Konga3" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Login.*" />
@@ -63,32 +62,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LoginTests" />
+        <item itemvalue="Application.Logintest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="05518f9d-cbfb-4f27-8a20-542ecf93c53f" name="Default Changelist" comment="" />
-      <created>1616667208459</created>
+      <changelist id="3c1dc73a-72b9-4b40-9660-f3c5241d44bc" name="Default Changelist" comment="" />
+      <created>1616618359182</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1616667208459</updated>
-      <workItem from="1616667209890" duration="6293000" />
+      <updated>1616618359182</updated>
+      <workItem from="1616618360626" duration="11807000" />
+      <workItem from="1616666972147" duration="1289000" />
     </task>
     <servers />
   </component>
@@ -105,6 +94,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
