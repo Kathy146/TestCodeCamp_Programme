@@ -20,7 +20,7 @@ public class LoginPage {
     }
 
     //Using By as a locator for elements
-    private By username = By.xpath("//input[@name='txtUsername']");
+    private By username = By.xpath("//*[@id=\"txtUsername\"]");
 
     public void enterUsername(String uName)
     {

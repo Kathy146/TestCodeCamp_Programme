@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05518f9d-cbfb-4f27-8a20-542ecf93c53f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Konga 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Login/LoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Login/LoginTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/Konga.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/Resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/76d0d107-bb1b-42e9-9184-d395da41b585-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/7fa9e61b-f5a3-4b48-940e-77100c2c91d2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/8e2c28b7-e4be-4166-a57b-4a14b77ea3c6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/allure-results/d300344e-1b28-48b5-afa3-ac8193cf6284-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/src/main/java/Pages/AddtoCartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/src/main/java/Pages/CheckOutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/src/main/java/Pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/src/main/java/Pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/src/main/java/Pages/SubCategoryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/src/test/java/Login/LoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/src/test/java/Setup/SetupTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/target/classes/Pages/AddtoCartPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/target/classes/Pages/CheckOutPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/target/classes/Pages/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/target/classes/Pages/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/target/classes/Pages/SubCategoryPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/target/test-classes/Login/LoginTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/target/test-classes/Setup/SetupTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga3/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga3/Konga3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga3/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga3/src/main/java/Login/Logintest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga3/target/classes/Login/Logintest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KongaPractise/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KongaPractise/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KongaPractise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KongaPractise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KongaPractise/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KongaPractise/KongaPractise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KongaPractise/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KongaPractise/src/test/java/Login/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga_Main/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga_Main/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga_Main/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga_Main/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga_Main/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga_Main/Konga_Main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga_Main/Resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga_Main/src/main/java/PageObjects/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga_Main/src/main/java/PageObjects/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga_Main/src/test/java/Login/Logintests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga_Main/src/test/java/Setup/SetupTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Konga_Main/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrangeHRM_POM/allure-results/4fb7437a-4066-4d2a-97f3-90544f66cf62-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrangeHRM_POM/allure-results/854735c1-acce-413e-9b9b-a6f24df52e36-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrangeHRM_POM/allure-results/85a3eb30-5f2a-41cf-9b92-797f5eb705b3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrangeHRM_POM/allure-results/88d890c7-4222-41a8-bd9d-198826e68e24-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrangeHRM_POM/allure-results/ae05f143-0a3d-49b9-92fc-05c4acd7d338-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrangeHRM_POM/allure-results/b6a40068-729b-4eac-afb2-411a81fb74e0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrangeHRM_POM/allure-results/cd361544-71e2-4897-a268-8aeb44dab9ae-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrangeHRM_POM/allure-results/d709b007-485f-4179-b816-cca0340c1163-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrangeHRM_POM/allure-results/e1add1ad-9290-48cf-8034-f00d018a306c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OrangeHRM_POM/allure-results/f84dbfec-e1ea-4355-9ce0-3bc63e674ffa-container.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrangeHRM_POM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OrangeHRM_POM/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrangeHRM_POM/src/main/java/pageObject/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OrangeHRM_POM/src/main/java/pageObject/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OrangeHRM_POM/target/classes/pageObject/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../OrangeHRM_POM/target/classes/pageObject/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SinglePage_Task/Facebook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SinglePage_Task/Facebook/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1qFF0DUuupX6RCttp1KdmIgvKZr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\TestCodeCamp_Programme\Submissions\SeleniumWebdriverTests\PageObjectModel_Tasks\Konga 4\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LoginTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Login.LoginTests" />
+      <module name="Konga 4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoginTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05518f9d-cbfb-4f27-8a20-542ecf93c53f" name="Default Changelist" comment="" />
+      <created>1616667208459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616667208459</updated>
+      <workItem from="1616667209890" duration="5695000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

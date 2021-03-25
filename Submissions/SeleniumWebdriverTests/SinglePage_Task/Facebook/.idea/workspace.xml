@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c72d5bd-bb29-490a-8096-c55ff4fe33f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/OrangeHRM_POM/allure-results/0319cc16-1912-4774-a479-869274be2738-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/OrangeHRM_POM/allure-results/47c2ae22-414b-45f9-b285-6431a2ab8899-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/OrangeHRM_POM/allure-results/58d438b0-2a2c-4424-83f4-8a614e8f9635-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/OrangeHRM_POM/allure-results/a80e404c-d1f5-499c-8f98-d0c3f9e8e518-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/OrangeHRM_POM/allure-results/be9dbf6c-a90c-4cf7-9f52-18cb82bc2afa-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/OrangeHRM_POM/allure-results/c35d7f60-8db4-4751-808d-c4a028412637-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/OrangeHRM_POM/allure-results/c72ee2ea-753b-4c36-94ef-be9005f8e7ca-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/OrangeHRM_POM/allure-results/caa8b9aa-c915-4b27-8d4e-6225dedb7b66-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/OrangeHRM_POM/allure-results/d4caeaf5-6802-4025-b5a7-19e21157fe58-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/OrangeHRM_POM/allure-results/ffb90f73-17a3-4d67-9263-6ed0e8fc3667-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PageObjectModel_Tasks/OrangeHRM_POM/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/OrangeHRM_POM/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PageObjectModel_Tasks/OrangeHRM_POM/src/main/resources/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/OrangeHRM_POM/resources/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PageObjectModel_Tasks/OrangeHRM_POM/src/test/java/Setup/SetupTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/OrangeHRM_POM/src/test/java/Setup/SetupTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PageObjectModel_Tasks/OrangeHRM_POM/target/classes/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../PageObjectModel_Tasks/OrangeHRM_POM/target/test-classes/Setup/SetupTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../PageObjectModel_Tasks/OrangeHRM_POM/target/test-classes/Setup/SetupTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +114,7 @@
       <workItem from="1615584626912" duration="4050000" />
       <workItem from="1615964236017" duration="990000" />
       <workItem from="1615977544806" duration="344000" />
+      <workItem from="1616420997708" duration="409000" />
     </task>
     <servers />
   </component>
